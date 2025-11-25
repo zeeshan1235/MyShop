@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles specific to MyShop can go below this line */
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
